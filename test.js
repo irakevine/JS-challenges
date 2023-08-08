@@ -66,15 +66,15 @@ let p= 10
  }
  grade(49)
 
-// write a function which displays numbers from 1 to 10 
-// let i= 0;
-// function num(){
-// for(let n = 1; n <= 10; n++){
-//   i = n
-//   console.log(i)
-// }
-// }
-// num()
+//Q7. write a function which displays numbers from 1 to 10 
+let i= 0;
+function num(){
+ for(let n = 1; n <= 10; n++){
+   i = n
+   console.log(i)
+ }
+ }
+num()
 ////////////////////////////////////////////////////////////////////////////
 
 // write function which display even numbers from 1 to 20
