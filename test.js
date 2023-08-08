@@ -8,7 +8,7 @@
 
  console.log(addition(2,8));
 
-///////////////////////////////////////
+
 //Q2. write a function which takes two values and return the biggest number
 
  const biggNbr= function bigg(a,b){
