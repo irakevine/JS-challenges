@@ -75,7 +75,7 @@ function num(){
  }
  }
 num()
-////////////////////////////////////////////////////////////////////////////
+
 
 // write function which display even numbers from 1 to 20
 let n=0;
