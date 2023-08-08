@@ -1,112 +1,103 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
 
+//     26 Javascript Challenges for beginners
+//     --------------
 
-    26 Javascript Challenges for beginners
-    --------------
-
-1.  Print numbers from 1 to 1000 ********
-let i= 0
-    for(i=0; i<= 1000; i++)
-    return i
+// 1.  Print numbers from 1 to 1000 ********
+// let i= 0
+//     for(i=0; i<= 1000; i++)
+//     return i
 
 
 
-2.  Print the odd numbers less than 100 ** ********
+// 2.  Print the odd numbers less than 100 ** ********
 
-if(n%2==1){
-    return n < 100
-}
+// if(n%2==1){
+//     return n < 100
+// }
 
-3.  Print the multiplication table with 7 **********
-
-
-if(let i=0, i < 12, i++){
-    let p = 0
-    let p = i* 7
-}
-return p
-
-4.  Print all the multiplication tables with numbers from 1 to 10 ********
-
-for(let i= 0; i<= 10; i++){
-    for(let n= 0; n<= 10; n++){  
-        let p = 0
-        p = i*n
-}
-
-}
-return p
-5.  Calculate the sum of numbers from 1 to 10 ********
-
-let s = 0
-
-for (let i= 1; i<= 10; i++ ){
-   s += i
-}
-console.log(s)
-6.  Calculate 10! ********
-
-7.  Calculate the sum of even numbers greater than 10 and less than 30 ********
+// 3.  Print the multiplication table with 7 **********
 
 
+// if(let i=0, i < 12, i++){
+//     let p = 0
+//     let p = i* 7
+// }
+// return p
 
-8.  Create a function that will convert from Celsius to Fahrenheit ********
+// 4.  Print all the multiplication tables with numbers from 1 to 10 ********
 
-9.  Create a function that will convert from Fahrenheit to Celsius ********
+// for(let i= 0; i<= 10; i++){
+//     for(let n= 0; n<= 10; n++){  
+//         let p = 0
+//         p = i*n
+// }
 
-10. Calculate the sum of numbers in an array of numbers ********
+// }
+// return p
+// 5.  Calculate the sum of numbers from 1 to 10 ********
 
--------------Kevine stop here-----------------
+// let s = 0
 
-11. Calculate the average of the numbers in an array of numbers **********
+// for (let i= 1; i<= 10; i++ ){
+//    s += i
+// }
+// console.log(s)
+// 6.  Calculate 10! ********
 
-12. Create a function that receives an array of numbers as argument and returns an
-    array containing only the positive numbers ********
-
-13. Find the maximum number in an array of numbers !!!!!
-
-14. Print the first 10 Fibonacci numbers without recursion !!!!!
-
-15. Create a function that will find the nth Fibonacci number using recursion !!!!!
-
-16. Create a function that will return a Boolean specifying if a number is prime !!!!!
-
-17. Calculate the sum of digits of a positive integer number ********
-
-18. Print the first 100 prime numbers !!!!!
-
-19. Create a function that will return in an array the first “p” prime numbers
-    greater than “n” !!!!!
-
-20. Rotate an array to the left 1 position
-
-21. Rotate an array to the right 1 position
-
-22. Reverse an array ********
-
-23. Reverse a string **********
-
-24. Create a function that will merge two arrays and return the result as a new
-    array ********
-
-25. Create a function that will receive two arrays of numbers as arguments and
-return an array composed of all the numbers that are either in the first array
-or second array but not in both ********
-
-26. Create a function that will receive two arrays and will return an array with
-elements that are in the first array but not in the second **********
+// 7.  Calculate the sum of even numbers greater than 10 and less than 30 ********
 
 
-</body>
-<script>
+
+// 8.  Create a function that will convert from Celsius to Fahrenheit ********
+
+// 9.  Create a function that will convert from Fahrenheit to Celsius ********
+
+// 10. Calculate the sum of numbers in an array of numbers ********
+
+// -------------Kevine stop here-----------------
+
+// 11. Calculate the average of the numbers in an array of numbers **********
+
+// 12. Create a function that receives an array of numbers as argument and returns an
+//     array containing only the positive numbers ********
+
+// 13. Find the maximum number in an array of numbers !!!!!
+
+// 14. Print the first 10 Fibonacci numbers without recursion !!!!!
+
+// 15. Create a function that will find the nth Fibonacci number using recursion !!!!!
+
+// 16. Create a function that will return a Boolean specifying if a number is prime !!!!!
+
+// 17. Calculate the sum of digits of a positive integer number ********
+
+// 18. Print the first 100 prime numbers !!!!!
+
+// 19. Create a function that will return in an array the first “p” prime numbers
+//     greater than “n” !!!!!
+
+// 20. Rotate an array to the left 1 position
+
+// 21. Rotate an array to the right 1 position
+
+// 22. Reverse an array ********
+
+// 23. Reverse a string **********
+
+// 24. Create a function that will merge two arrays and return the result as a new
+//     array ********
+
+// 25. Create a function that will receive two arrays of numbers as arguments and
+// return an array composed of all the numbers that are either in the first array
+// or second array but not in both ********
+
+// 26. Create a function that will receive two arrays and will return an array with
+// elements that are in the first array but not in the second **********
+
+
+
+
+
     // console.log("1. numbers from one to ten")
     // let num=0;
     // for (let num = 0; num <= 10; num++) {
@@ -337,7 +328,7 @@ elements that are in the first array but not in the second **********
     
     // console.log("Filtering out negative numbers")
     // function filtering(myarray){
-    //     for(let i=0;i<myarray.length;i++){
+     //     for(let i=0;i<myarray.length;i++){
     //         if(myarray[i]<0){
     //             myarray.splice(i,1);
     //             i-=1;
@@ -371,16 +362,14 @@ elements that are in the first array but not in the second **********
     // }
     // myvowels("frankee")
 
-    console.log("It's an include check")
-    let myusers=["frnk","deborah","francis","fofo"];
+    // console.log("It's an include check")
+    // let myusers=["frnk","deborah","francis","fofo"];
     // myusers.forEach(myuser => {
-        if(myusers.toLowerCase().includes("frnk")){
-            console.log("hiii")
-        }
-    // });
+        // if(myusers.toLowerCase().includes("frnk")){
+        //     console.log("hiii") -->
+        // }
+    //});
     
 
 
 
-</script>
-</html>
