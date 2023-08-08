@@ -19,7 +19,7 @@
  }
  console.log(biggNbr(4,80))
 
-/////////////////////////////////////////////////
+
 
 // Q3. write a function which is greather than to 5
 
