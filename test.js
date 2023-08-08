@@ -55,16 +55,16 @@ let p= 10
  comp(90)
 
 //////////////////////////////////////
-// Write a function which test the grade of a student in a certain subject. It displays ‘Fail’ if he is less than 49% and excellent if he is above or has 50%.
+// Q6. Write a function which test the grade of a student in a certain subject. It displays ‘Fail’ if he is less than 49% and excellent if he is above or has 50%.
 
-// function grade(PH){
-//     if(PH <= 49){
-// console.log('fail'); 
-//     }else if(PH >= 50){
-// console.log('excellent'); 
-//     }
-// }
-// grade(49)
+ function grade(PH){
+     if(PH <= 49){
+ console.log('fail'); 
+    }else if(PH >= 50){
+ console.log('excellent'); 
+     }
+ }
+ grade(49)
 
 // write a function which displays numbers from 1 to 10 
 // let i= 0;
