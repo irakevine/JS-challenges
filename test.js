@@ -1,10 +1,12 @@
-// let s = 0
-//  const addition = function myAdd(i,p){
-//  s = i + p
-//  return s
-// } 
+//Q1. write a function which dispaly addition of two numbers
 
-// console.log(addition(2,8));
+ let s = 0
+  const addition = function myAdd(i,p){
+  s = i + p
+  return s
+ } 
+
+ console.log(addition(2,8));
 
 ///////////////////////////////////////
 
