@@ -33,16 +33,16 @@
     gret(0)
 
 ///////////////////////////////////////////////////////
-// Write a function which adds two numbers and check if the sum of those numbers is greater than 20
-// let n= 0
-// let p=20
-// function sum(a,b){
-//     n = a+b
-//     if(n > p){
-//    console.log(n)
-//     }
-// }
-// sum(5,17)
+// Q4. Write a function which adds two numbers and check if the sum of those numbers is greater than 20
+let n= 0
+let p=20
+function sum(a,b){
+    n = a+b
+    if(n > p){
+    console.log(n)
+    }
+ }
+sum(5,17)
 /////////////////////////////////////////////////////////
 //write function which test if a number is greater than 5 and less than to 10
 // let i= 5
