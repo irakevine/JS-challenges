@@ -43,7 +43,7 @@ function sum(a,b){
     }
  }
 sum(5,17)
-/////////////////////////////////////////////////////////
+
 // Q5. write function which test if a number is greater than 5 and less than to 10
 let i= 5
 let p= 10
