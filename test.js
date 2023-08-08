@@ -44,15 +44,15 @@ function sum(a,b){
  }
 sum(5,17)
 /////////////////////////////////////////////////////////
-//write function which test if a number is greater than 5 and less than to 10
-// let i= 5
-// let p= 10
-// function comp(n){
-//     if( n>i && n<10 ){
-//         console.log(n);
-//     }
-// }
-// comp(90)
+// Q5. write function which test if a number is greater than 5 and less than to 10
+let i= 5
+let p= 10
+ function comp(n){
+    if( n>i && n<10 ){
+        console.log(n);
+    }
+ }
+ comp(90)
 
 //////////////////////////////////////
 // Write a function which test the grade of a student in a certain subject. It displays ‘Fail’ if he is less than 49% and excellent if he is above or has 50%.
