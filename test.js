@@ -54,7 +54,7 @@ let p= 10
  }
  comp(90)
 
-//////////////////////////////////////
+
 // Q6. Write a function which test the grade of a student in a certain subject. It displays ‘Fail’ if he is less than 49% and excellent if he is above or has 50%.
 
  function grade(PH){
