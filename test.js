@@ -32,7 +32,7 @@
      }
     gret(0)
 
-///////////////////////////////////////////////////////
+
 // Q4. Write a function which adds two numbers and check if the sum of those numbers is greater than 20
 let n= 0
 let p=20
