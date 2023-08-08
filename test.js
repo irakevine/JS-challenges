@@ -77,7 +77,7 @@
 // num()
 
 
-// write function which display even numbers from 1 to 20
+// Q9. write function which display even numbers from 1 to 20
 let n=0;
 function evn(){
 for(let i = 1; i<= 20; i++){
