@@ -21,15 +21,16 @@
 
 /////////////////////////////////////////////////
 
+// Q3. write a function which is greather than to 5
 
-// let i = 5; 
-//    function gret(n){
-// if(n > i ){
-//     console.log(n) 
-// }
+ let i = 5; 
+    function gret(n){
+ if(n > i ){
+     console.log(n) 
+ }
         
-//     }
-//     gret(0)
+     }
+    gret(0)
 
 ///////////////////////////////////////////////////////
 // Write a function which adds two numbers and check if the sum of those numbers is greater than 20
